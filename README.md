@@ -1,9 +1,9 @@
-# Front End Mentor Challenges
+# 50 Projects In 50 Days - Brad Traversy
 
-![Design preview for the Order summary card coding challenge](axhe4rw0jpykyhdphhwc.jpg)
+![Design preview for the Order summary card coding challenge](preview.jpg)
 
-## **DEVFINDER**
+## **Password Generator**
 
-- **Level : `JUNIOR`**
+- **Day : `31`**
 
 - **Lang : `HTML, CSS, JS`**
